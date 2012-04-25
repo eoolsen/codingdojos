@@ -1,0 +1,14 @@
+c:\users\erik olsen\documents\visual studio 2010\Projects\TennisScore\TennisScore\obj\Debug\ResolveAssemblyReference.cache
+c:\users\erik olsen\documents\visual studio 2010\Projects\TennisScore\TennisScore\bin\Debug\TennisScore.dll
+c:\users\erik olsen\documents\visual studio 2010\Projects\TennisScore\TennisScore\bin\Debug\TennisScore.pdb
+c:\users\erik olsen\documents\visual studio 2010\Projects\TennisScore\TennisScore\bin\Debug\nunit.framework.dll
+c:\users\erik olsen\documents\visual studio 2010\Projects\TennisScore\TennisScore\bin\Debug\nunit.framework.xml
+c:\users\erik olsen\documents\visual studio 2010\Projects\TennisScore\TennisScore\obj\Debug\TennisScore.dll
+c:\users\erik olsen\documents\visual studio 2010\Projects\TennisScore\TennisScore\obj\Debug\TennisScore.pdb
+C:\Users\Erik Olsen\Dropbox\Coding dojos\TennisScore\TennisScore\bin\Debug\TennisScore.dll
+C:\Users\Erik Olsen\Dropbox\Coding dojos\TennisScore\TennisScore\bin\Debug\TennisScore.pdb
+C:\Users\Erik Olsen\Dropbox\Coding dojos\TennisScore\TennisScore\bin\Debug\nunit.framework.dll
+C:\Users\Erik Olsen\Dropbox\Coding dojos\TennisScore\TennisScore\bin\Debug\nunit.framework.xml
+C:\Users\Erik Olsen\Dropbox\Coding dojos\TennisScore\TennisScore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Erik Olsen\Dropbox\Coding dojos\TennisScore\TennisScore\obj\Debug\TennisScore.dll
+C:\Users\Erik Olsen\Dropbox\Coding dojos\TennisScore\TennisScore\obj\Debug\TennisScore.pdb

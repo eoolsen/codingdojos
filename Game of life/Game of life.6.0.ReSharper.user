@@ -1,0 +1,85 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:GameOfLife.cs" caret="0" fromTop="0" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:TestGameOfLife.cs" caret="139" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:GameOfLife.cs" caret="2186" fromTop="37" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:GameOfLife.cs" caret="2436" fromTop="39" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:GameOfLife.cs" caret="5132" fromTop="25" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:GameOfLife.cs" caret="5017" fromTop="26" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:GameOfLife.cs" caret="5137" fromTop="21" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:GameOfLife.cs" caret="5137" fromTop="8" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:GameOfLife.cs" caret="5137" fromTop="15" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:GameOfLife.cs" caret="5137" fromTop="29" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:GameOfLife.cs" caret="5137" fromTop="52" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:GameOfLife.cs" caret="5137" fromTop="31" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:GameOfLife.cs" caret="5137" fromTop="6" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:GameOfLife.cs" caret="5137" fromTop="35" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:GameOfLife.cs" caret="5137" fromTop="34" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:GameOfLife.cs" caret="731" fromTop="18" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:GameOfLife.cs" caret="837" fromTop="31" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:GameOfLife.cs" caret="832" fromTop="23" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:GameOfLife.cs" caret="5140" fromTop="36" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:TestGameOfLife.cs" caret="2252" fromTop="33" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:TestGameOfLife.cs" caret="2252" fromTop="34" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:TestGameOfLife.cs" caret="2252" fromTop="32" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:GameOfLife.cs" caret="1453" fromTop="18" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:GameOfLife.cs" caret="731" fromTop="10" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:TestGameOfLife.cs" caret="2131" fromTop="33" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:TestGameOfLife.cs" caret="617" fromTop="21" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:TestGameOfLife.cs" caret="924" fromTop="28" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:TestGameOfLife.cs" caret="1007" fromTop="42" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:TestGameOfLife.cs" caret="1356" fromTop="34" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:TestGameOfLife.cs" caret="978" fromTop="32" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:TestGameOfLife.cs" caret="1961" fromTop="48" />
+      <File id="B639B4CA-1976-45F7-8FAD-322ABE5D60CF/f:TestGameOfLife.cs" caret="863" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.9\bin\net-2.0\lib</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="BadImageFormatException`0" priority="31" />
+      <Item value="for" priority="63" />
+      <Item value="configuration" priority="94" />
+      <Item value="var" priority="95" />
+      <Item value="if" priority="63" />
+      <Item value="i" priority="95" />
+      <Item value="new" priority="63" />
+      <Item value="List" priority="28" />
+      <Item value="int" priority="124" />
+      <Item value="config" priority="63" />
+      <Item value="dimension" priority="158" />
+      <Item value="j" priority="31" />
+      <Item value="newline" priority="31" />
+      <Item value="gameState" priority="31" />
+      <Item value="ydimension" priority="31" />
+      <Item value="row" priority="31" />
+      <Item value="g" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="26" />
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Game_of_life.GameOfLife">
+      <Item value="PopulateRow`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Erik Olsen\Dropbox\Coding dojos\Game of life\GameTests.nunit" total="12" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2011-11-13" time="18:30:50">
+  <environment nunit-version="2.5.10.11092" clr-version="2.0.50727.5448" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Users\Erik Olsen\Dropbox\Coding dojos\Game of life" machine-name="ERIKOLSEN-THINK" user="Erik Olsen" user-domain="ErikOlsen-THINK" />
+  <culture-info current-culture="da-DK" current-uiculture="en-US" />
+  <test-suite type="Project" name="C:\Users\Erik Olsen\Dropbox\Coding dojos\Game of life\GameTests.nunit" executed="True" result="Success" success="True" time="0.160" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="C:\Users\Erik Olsen\Dropbox\Coding dojos\Game of life\Game of life\bin\Debug\Game of life.dll" executed="True" result="Success" success="True" time="0.146" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Game_of_life" executed="True" result="Success" success="True" time="0.146" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="TestCell" executed="True" result="Success" success="True" time="0.086" asserts="0">
+                <results>
+                  <test-case name="Game_of_life.TestCell.TestCreation" executed="True" result="Success" success="True" time="0.020" asserts="0" />
+                  <test-case name="Game_of_life.TestCell.TestEvaluattionOfAliveCell" executed="True" result="Success" success="True" time="0.020" asserts="4" />
+                  <test-case name="Game_of_life.TestCell.TestEvaluattionOfDeadCell" executed="True" result="Success" success="True" time="0.000" asserts="4" />
+                  <test-case name="Game_of_life.TestCell.TestToString" executed="True" result="Success" success="True" time="0.007" asserts="2" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="TestGameOfLife" executed="True" result="Success" success="True" time="0.052" asserts="0">
+                <results>
+                  <test-case name="Game_of_life.TestGameOfLife.TestCreation" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Game_of_life.TestGameOfLife.TestEvaluation" executed="True" result="Success" success="True" time="0.012" asserts="3" />
+                  <test-case name="Game_of_life.TestGameOfLife.TestEvaluation1" executed="True" result="Success" success="True" time="0.003" asserts="7" />
+                  <test-case name="Game_of_life.TestGameOfLife.TestHorizontalLine" executed="True" result="Success" success="True" time="0.007" asserts="0" />
+                  <test-case name="Game_of_life.TestGameOfLife.TestIllegalCreation" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                  <test-case name="Game_of_life.TestGameOfLife.TestPopulation" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                  <test-case name="Game_of_life.TestGameOfLife.TestTostring" executed="True" result="Success" success="True" time="0.009" asserts="1" />
+                  <test-case name="Game_of_life.TestGameOfLife.TestTostringLength" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
